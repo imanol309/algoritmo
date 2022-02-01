@@ -1,4 +1,4 @@
-function familia(time) {
+function saludos(time) {
     if (time > 24) {
         return (console.log('El numero que pusiste es mayor que las horas del dia.'))
     }
@@ -11,5 +11,4 @@ function familia(time) {
       }
       console.log(greeting)
 }
-
-familia(21)
+saludos(21)

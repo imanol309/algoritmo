@@ -4,6 +4,4 @@ function operaciones(a) {
     })
     console.log(a)
 }
-
-
 operaciones([25,45,10,23,8,3])
