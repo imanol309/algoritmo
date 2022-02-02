@@ -5,4 +5,4 @@ function repetir(a) {
     }, a);
 }
 
-repetir(1000)
+repetir(100)
