@@ -41,7 +41,18 @@ print(dir(hola))
 
 #eliminar cualquier cosas
 
-del hola
-print(hola)
+# del hola
+# print(hola)
 hola = 5
 print (hola)
+
+
+#codiciones
+
+color =  3
+
+if color >= 4:
+    print('Color es mayor que 4')
+else: 
+    print('Color es menor que 4 ')
+
