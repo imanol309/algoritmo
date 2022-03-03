@@ -35,3 +35,13 @@ PI = 3.1416
 print(PI)
 
 #string
+hola =  'hola mundo imanol'
+print(dir(hola))
+
+
+#eliminar cualquier cosas
+
+del hola
+print(hola)
+hola = 5
+print (hola)
