@@ -20,4 +20,18 @@ print (type(30.5))
 
 #tuples
 (10,25,78,96)
-()
+
+
+# variables
+nombre = 'imanol'
+print(nombre)
+
+
+lenguaje_js = 'Estas en la forma de llamar variable'
+print(lenguaje_js)
+
+#constante
+PI = 3.1416
+print(PI)
+
+#string
