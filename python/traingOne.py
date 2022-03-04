@@ -56,3 +56,7 @@ if color >= 4:
 else: 
     print('Color es menor que 4 ')
 
+# FOR IN PYTHON
+
+for x in range(0,5):
+    print('Hola', x)
